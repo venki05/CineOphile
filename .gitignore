@@ -7,3 +7,5 @@
 
 *.exe
 tailwind
+# Fresh build directory
+_fresh/
