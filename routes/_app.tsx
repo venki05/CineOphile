@@ -15,7 +15,7 @@ export default function App(props: AppProps) {
       </Head>
       <body>
         <Navbar/>
-        <Component />
+        <Component/>
       </body>
     </html>
   );
